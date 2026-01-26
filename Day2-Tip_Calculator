@@ -7,3 +7,4 @@ finalbillperperson = billperperson * (1+(tip/100))
 print(f"Each person should pay ${finalbillperperson:.2f}")
 
 
+ 
